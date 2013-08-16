@@ -2,6 +2,8 @@ body {
 	font-family: 'Radley', serif;
 	background-color: #444444;
 	color: #FFFFFF;
+	line-height: 1.5;
+	font-size: 18px;
 }
 
 .container {
