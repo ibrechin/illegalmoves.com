@@ -1,5 +1,5 @@
 Title: Another Test Post
-Date: 2010-12-03 10:20
+Date: 2010-12-03 10:21
 Category: Python
 Tags: pelican, publishing
 Slug: my-super-post-2
@@ -7,6 +7,8 @@ Author: Ian Brechin
 Summary: Short version for index and feeds
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vulputate nisl. Praesent nec diam eu dui bibendum placerat et eget nibh. Aliquam scelerisque, odio eu ultricies lobortis, ligula mauris facilisis leo, in varius nibh magna et nibh. Sed in malesuada justo. Nullam a quam odio. Phasellus eget dui et sem rhoncus condimentum. Phasellus sodales quam eget ultricies porttitor. Vivamus malesuada, lectus vel sagittis iaculis, enim tortor ultricies velit, ac molestie risus nunc vitae est. Nunc fermentum porttitor mauris, tempor tempor elit sodales vitae. Aliquam nec ornare justo. Nullam id enim quis quam blandit dignissim.
+
+![](https://lh5.googleusercontent.com/-pRL42FP-1oI/UZvulHZ2HEI/AAAAAAAACEo/HoUfwD1zNY4/w755-h566-no/IMG_20130521_225837.jpg)
 
 Nunc posuere dolor non elit interdum congue. Mauris porta, urna dignissim iaculis fermentum, nulla ligula sodales nisi, et congue tortor odio sed diam. Maecenas facilisis lobortis ante et porta. Duis vehicula sem velit, ac imperdiet libero elementum ac. Nullam vitae est pellentesque, pellentesque magna eu, blandit felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed tristique sapien lobortis, congue erat ac, vulputate libero. Pellentesque et scelerisque nisl, at gravida risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Maecenas lacinia lorem ac felis condimentum dignissim.
 

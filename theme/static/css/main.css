@@ -15,7 +15,23 @@ body {
 	color: #FFFFFF;
 }
 
+#banner a:hover {
+	text-decoration: none;
+}
+
 a {
 	text-decoration: none;
 	color: #FFBD70;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	width: 100%;
+}
+
+.byline {
+	color: #CCCCCC;
 }
