@@ -6,7 +6,20 @@
 
 {% for article in articles_page.object_list %}
         {% include 'content.html' %}
+        {% if DISQUS_SITENAME %}
+        <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" title="Permalink to {{ article.title|striptags }} comments">Comments</a>
+        {% endif %}
 {% endfor %}
 {% include 'pagination.html' %}
 </section><!-- /#content -->
+{% if DISQUS_SITENAME %}
+<script>
+	(function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+{% endif %}
 {% endblock content %}

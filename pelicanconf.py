@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ian Brechin'
 SITENAME = u'Illegal Moves'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -15,10 +15,12 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 THEME = 'theme'
+
+DISQUS_SITENAME = 'illegalmoves'
 
