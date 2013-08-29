@@ -6,13 +6,17 @@ body {
 	font-size: 18px;
 }
 
+#disqus_thread {
+	margin-top: 50px;
+}
+
 .container {
 	max-width: 768px;
 	margin: auto;
 }
 
 #banner a {
-	color: #657b83;
+	color: #cb4b16;
 }
 
 #banner a:hover {
@@ -34,4 +38,9 @@ img {
 
 .byline {
 	color: #93a1a1;
+}
+
+hr {
+	border-style: none;
+	margin-bottom: 50px;
 }
