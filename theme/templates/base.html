@@ -22,6 +22,7 @@
         {% if CATEGORY_FEED_RSS and category %}
         <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
         {% endif %}
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Radley' rel='stylesheet' type='text/css'>
         <link href='{{ SITEURL }}/theme/css/main.css' rel='stylesheet' type='text/css'>
         {% endblock head %}
@@ -53,11 +54,20 @@
         {% endblock %}
         </div>
         <footer id="contentinfo" class="body">
+            <div id="feedlink">
+                <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">RSS</a>
+            </div>
             <address id="about" class="vcard body">
                 Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
                 which takes great advantage of <a href="http://python.org">Python</a>.
             </address><!-- /#about -->
         </footer><!-- /#contentinfo -->
     </div>
+    <script>
+    // yes, i added jquery just for this. fuck you.
+    $(function() {
+        $('img').parent('p').css({ 'text-align': 'center' });
+    });
+    </script>
 </body>
 </html>

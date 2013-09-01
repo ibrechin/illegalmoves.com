@@ -48,3 +48,7 @@ hr {
 	border-style: none;
 	margin-bottom: 50px;
 }
+
+#feedlink {
+	font-style: italic;
+}
