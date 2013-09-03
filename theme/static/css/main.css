@@ -1,5 +1,5 @@
 body {
-	font-family: 'Radley', serif;
+	font-family: 'Gentium Book Basic', serif;
 	background-color: #ffffff;
 	color: #657b83;
 	line-height: 1.5;
@@ -16,6 +16,7 @@ body {
 }
 
 #banner {
+	font-family: 'Roboto Slab', sans-serif;
 	letter-spacing: 1px;
 }
 
