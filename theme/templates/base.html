@@ -28,6 +28,9 @@
         <link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
         <link href='{{ SITEURL }}/theme/css/main.css' rel='stylesheet' type='text/css'>
         {% endblock head %}
+        {% if GOOGLE_ANALYTICS %}
+        {% include 'analytics.html' %}
+        {% endif %}
 </head>
 
 <body id="index" class="home">
