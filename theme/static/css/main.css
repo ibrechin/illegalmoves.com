@@ -64,3 +64,8 @@ hr {
 footer {
 	font-style: italic;
 }
+
+#about {
+	font-style: normal;
+	font-size: 13px;
+}
