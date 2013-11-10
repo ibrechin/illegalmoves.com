@@ -44,7 +44,7 @@ In Kyoto I also had my first experience of getting butt naked with a bunch of ol
 
 My next two days were spent on day trips to Arashiyama and Nara, where I currently am, sitting in a pleasant little ryokan having just enjoyed a recital by a koto player and two flautists. If you look through all of the photo albums that I have linked at the end of this post, you will probably start to feel much as I do at the moment, which is pretty much done with temples and gardens. They are fantastic, and particularly with the gardens there is always something new, but at this point I am ready for something else. Probably finding a good *onsen* town and spending some more time completely naked with old Japanese men.  
 
-![](https://lh4.googleusercontent.com/-UyIv0Bov1Hc/Un4Tjdocw_I/AAAAAAAADgs/HQHyYDH2ip0/s640/DSC00560.JPG)
+![](https://lh4.googleusercontent.com/-UyIv0Bov1Hc/Un4Tjdocw_I/AAAAAAAADgs/HQHyYDH2ip0/s768/DSC00560.JPG)
 
 ### Photo Albums
 
