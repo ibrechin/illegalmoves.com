@@ -19,5 +19,5 @@ Yeah.
 
 ### Photo Albums
 
-[Kurama](https://picasaweb.google.com/110277251572045373854/Kurama?authuser=0&authkey=Gv1sRgCP_T5KOToom4BA&feat=directlink)
-[Hiroshima](https://picasaweb.google.com/110277251572045373854/Hiroshima?authuser=0&authkey=Gv1sRgCPDV38_L2p77Sg&feat=directlink)
+[Kurama](https://picasaweb.google.com/110277251572045373854/Kurama?authuser=0&authkey=Gv1sRgCP_T5KOToom4BA&feat=directlink)  
+[Hiroshima](https://picasaweb.google.com/110277251572045373854/Hiroshima?authuser=0&authkey=Gv1sRgCPDV38_L2p77Sg&feat=directlink)  
