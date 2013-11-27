@@ -15,7 +15,7 @@ There is a certain amount of suspicion and cynicism towards locals in Vietnam th
 
 ![](https://lh5.googleusercontent.com/--UseGdsJ6oU/UpSzRbnDp7I/AAAAAAAAEHY/2G0JTOFy2YM/s768/DSC01245.JPG)
 
-The tour ended in Nha Trang, which is a grotesque beach resort absolutely packed with Russian tourists. I had previously been fully aware that it was a terrible place, so I already had a bus ticket out of there booked that would leave a few hours after I arrived. My destination was Hoi An, where I intended to relax after three days in the saddle. Hoi An turned out to be a pretty good place for that, with its beautiful Old Town, an area of old Chinese houses and shops by the river. Of course all of these lovely old buildings are now restaurants, souvenir shops or tailors, but such is the force of the tourist industry. It still looks pretty by night.  
+The tour ended in Nha Trang, which is a grotesque beach resort absolutely packed with Russian tourists. I had previously been fully aware that it was a terrible place, so I already had a bus ticket out of there booked that would leave a few hours after I arrived. My destination was Hoi An, where I intended to relax after three days in the saddle. Hoi An turned out to be a pretty good place for that, with its beautiful Old Town, an area of old Chinese houses and shops by the river. Of course all of these lovely old buildings are now restaurants, souvenir shops, or tailors, but such is the force of the tourist industry. It still looks pretty by night.  
 
 ![](https://lh4.googleusercontent.com/-Doa-5ADmyLE/UpU4I4m3G4I/AAAAAAAAEOs/GhKI_Sazm50/s768/DSC01388.JPG)
 
