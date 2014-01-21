@@ -17,7 +17,7 @@ When you're on your own with a car, there is a terrible temptation to just drive
 
 Every significant journey I've taken so far seems to have taken at least twice what the Google maps estimate says it will, largely due to the fact that it's difficult to drive fast and without stopping when the road you're driving along is like this:  
 
-![]()
+![](https://lh4.googleusercontent.com/-PYZrD6o2GoA/Utm-esxQ_4I/AAAAAAAAGW0/mqcZ0lI66rA/s768/DSC04447.JPG)
 
 New Zealand really is set up fantastically for hiking and camping, with the Department of Conservation managing the facilities for both. There are DOC campsites all over the place that will be in beautiful locations and provide, at minimum, toilets and a water supply (potable, if you're lucky) for between free and £3. They do a few fancier and more expensive ones as well, but I rarely had cause to visit those. On the hiking side, practically every five minutes along the road there will be a turn off signposted for some attraction, and if you go down it you'll probably find at least one walking route with an estimated return trip time specified. The big draw for both activities are the Great Walks, which are a set of 9 multi-day hiking routes (or tramping, as they say in NZ) through particularly beautiful scenery of various kinds, with DOC campsites and huts along the way. Sadly, due to time constraints I was unable to do a Great Walk in full, but I did do a little bit of a couple, sampling the coastal charms of the Abel Tasman Track...  
 
