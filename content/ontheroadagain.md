@@ -25,7 +25,7 @@ New Zealand really is set up fantastically for hiking and camping, with the Depa
 
 ...and the alpine magnificence of the Routeburn Track.  
 
-![](https://lh4.googleusercontent.com/-imWBh4lNQkw/Ut3oIp1IgII/AAAAAAAAGec/hGm8ZMlcruc/s768/DSC05035.JPG)
+![](https://lh6.googleusercontent.com/-0w5pvbTL2_I/UuiOoPf1mMI/AAAAAAAAG20/D0TI3ApneSM/s768/DSC05035.JPG)
 
 I've had pretty decent weather for most of my time here, marred slightly by the wet and windy last couple of days, and a very wet day when I was supposed to be taking a look around glacier country. I did actually make the trip out to view the Franz Josef glacier and ended up getting soaked to the skin. I was not happy.  
 
