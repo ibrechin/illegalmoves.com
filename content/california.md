@@ -16,7 +16,7 @@ Of course, back when I was 15, I didn't really appreciate a lot of things proper
 
 ![](https://lh5.googleusercontent.com/-BrQRQP7drZ8/UuslYggT0pI/AAAAAAAAHDQ/lgocK5VOe8Y/s768/DSC05451.JPG)
 
-On my way up the coast I overnighted at San Luis Obispo, which I picked because of its halfway location but which was actually quite a nice, cool little university town, and Monterey. I also made the time to do a bit of walking in the redwood forests of Big Sur. I am curious as to whether there were ever any religions based around redwoods - I would find it easy to believe that some people might once considered these giants to be gods, or at least kin to them. You wouldn't even need to build cathedrals; you have places of worship of unsurpassed grandeur ready-made.  
+On my way up the coast I overnighted at San Luis Obispo, which I picked because of its halfway location but which was actually quite a nice, cool little university town, and Monterey. I also made the time to do a bit of walking in the redwood forests of Big Sur. I am curious as to whether there were ever any religions based around redwoods - I would find it easy to believe that some people might once have considered these giants to be gods, or at least kin to them. You wouldn't even need to build cathedrals; you have places of worship of unsurpassed grandeur ready-made.  
 
 ![](https://lh3.googleusercontent.com/-LzvOzjGR9Qk/UuslouqlfdI/AAAAAAAAHDk/XxMdY13lb0Q/s768/DSC05504.JPG)
 
