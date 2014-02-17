@@ -23,7 +23,7 @@ And this is "Niagara Falls":
 
 ![](https://lh5.googleusercontent.com/-xytGw0YR8Hk/Uv_t4ERN9NI/AAAAAAAAHos/M9_DSw_ONRw/s768/DSC06053.JPG)
 
-After driving up the west coast of the island, I drove across the middle to Nanaimo to get the ferry back to Vancouver. Whilst I was there I spent a day on Newcastle Island, a designated park only accessible by boat, although you could poably swim there pretty easily if the water was warmer. It seemed to be pretty much abandoned in winter - the regular ferry service was stopped, and you had to ask the ferry going to the other, more inhabited island to make an extra stop and then come back and pick you up again at a prearranged time. This was nice, however, as as far as I could tell I pretty much had the entire island to myself.  
+After driving up the west coast of the island, I drove across the middle to Nanaimo to get the ferry back to Vancouver. Whilst I was there I spent a day on Newcastle Island, a designated park only accessible by boat, although you could probably swim there fairly easily if the water was warmer. It seemed to be pretty much abandoned in winter - the regular ferry service was stopped, and you had to ask the ferry going to the other, more inhabited island to make an extra stop and then come back and pick you up again at a prearranged time. This was nice, however, as as far as I could tell I pretty much had the entire island to myself.  
 
 The weather seems to be much milder out on the islands than on the mainland, so I spent a pleasant few hours walking around the island and listening to podcasts. It was good.  
 
