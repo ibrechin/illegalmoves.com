@@ -8,7 +8,7 @@ Summary: The city that etc etc so good they etc
 
 ![](https://lh6.googleusercontent.com/-uSg5tU_W_w0/Uwlrg4iFrTI/AAAAAAAAH94/ZKnyCwtlpn8/s768/DSC06293.JPG)
 
-The Metropolitan Museum of Art is really amazing. I would have spent many days there were it not for the fact that my time in New York was limited and there was so much else to see. It's awesome not just because of the at on display, but the also the building in which it is housed and the effort that goes into presenting it. Antique furniture and paintings are used as part of resonstructions of room interiors of the period - from the sitting rooms of French palaces to a Syrian reception room, and a beautiful rood in its element in a stone flagged room complete with pillars and stained glass windows.  
+The Metropolitan Museum of Art is really amazing. I would have spent many days there were it not for the fact that my time in New York was limited and there was so much else to see. It's awesome not just because of the art on display, but also the building in which it is housed and the effort that goes into presenting it. Antique furniture and paintings are used as part of reconstructions of room interiors of the period - from the sitting rooms of French palaces to a Syrian reception room, and a beautiful rood in its element in a stone flagged room complete with pillars and stained glass windows.  
 
 ![](https://lh5.googleusercontent.com/-MjdKpCW8l4k/UwlqN-7gjsI/AAAAAAAAH9o/jo2p1AsoUr8/s768/DSC06253.JPG)
 
