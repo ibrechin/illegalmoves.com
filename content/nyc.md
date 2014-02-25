@@ -44,3 +44,7 @@ This is my final blog post from foreign lands, as I am getting on a plane back t
 TTFN.  
 
 ![](https://lh3.googleusercontent.com/-K02VA1C1mMk/UwlpcW0MHvI/AAAAAAAAH9U/tzP6NrG2wzs/s768/DSC06210.JPG)
+
+### Photo Albums
+
+[NYC](https://picasaweb.google.com/110277251572045373854/NYC?authuser=0&authkey=Gv1sRgCPGOuOLSt_bYHQ&feat=directlink)  
