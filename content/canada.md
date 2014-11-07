@@ -11,7 +11,7 @@ One of the interesting challenges of driving around North America is finding a g
 
 You get the occasional surprise as well, such as when I was driving through middle-of-nowhere rural Canada and suddenly tuned in to the local hip-hop station.  
 
-So, anyway - Canada. After a few days wanering around the parks, museums, and streets of Vancouver, I took a ferry across to Vancouver Island, and the B.C. provincial capital, Victoria. The ferry ride itself was pretty cool, navigating through a clutch of smaller islands off the coast.  
+So, anyway - Canada. After a few days wandering around the parks, museums, and streets of Vancouver, I took a ferry across to Vancouver Island, and the B.C. provincial capital, Victoria. The ferry ride itself was pretty cool, navigating through a clutch of smaller islands off the coast.  
 
 ![](https://lh4.googleusercontent.com/-sw7NluZxTIU/Uv_qP9cVEtI/AAAAAAAAHl4/8b7v316WjB8/s768/DSC05988.JPG)
 
