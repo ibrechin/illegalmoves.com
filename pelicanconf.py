@@ -18,6 +18,3 @@ DEFAULT_PAGINATION = 3
 #RELATIVE_URLS = True
 
 THEME = 'theme'
-
-DISQUS_SITENAME = 'illegalmoves'
-
